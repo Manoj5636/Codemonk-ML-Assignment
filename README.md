@@ -17,6 +17,10 @@ I built a deep learning model using PyTorch and did detailed Exploratory Data An
 - `model.pth`: Trained model weights.
 - `encoders.pkl`: Label encoders for inverse transforming the predictions.
 
+## 🔗 Model Weights
+Since the model `.pth` file is large (>25MB), you can download it from here:
+https://drive.google.com/file/d/12hw_a2gFlnIP1Vb7toKjXJpO3I6zApAc/view?usp=drive_link
+
 ## Tech Stack
 - Python
 - PyTorch
